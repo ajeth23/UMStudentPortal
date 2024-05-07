@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UMPortal</string>
+    <string name="mission">The University of Mindanao seeks to provide a dynamic learning environment through the highest standard of instruction, research, extension, and production in a private non-sectarian institution committed to democratizing access to education.</string>
+    <string name="vision">The University of Mindanao envisions to be a leading globally engaged university creating sustainable impact in society.</string>
+    <string name="values_excellence">Excellence\nWe are committed to world-class customer service and quality as we excel for the mutual success of our stakeholders. We ensure that our products and services are on par with the global standards to ensure its responsiveness and impact on our stakeholders and the community and country in general.</string>
+    <string name="values_HonestIntegrity">Honesty and Integrity.\nOur organization establishes utmost trust and ensures practical transparency in dealing with our stakeholders. We practice accountability in all our undertakings especially those that involve our stakeholders. Professionalism is at the core of our thrust as an academic institution.</string>
+    <string name="values_Innovation">Innovation.\nWe always think outside the box to be of prime service to our stakeholders. We do this by continuously improving existing programs and introducing new initiatives as value added benefits to our clients.</string>
+    <string name="values_TeamWork">Teamwork.\nWe believe in the concept that the whole is greater than the sum of its parts. We value the collective effort of every stakeholder through synergy, cooperation, collaboration and ‘esprit de corps’ as it is integral to the success of the institution.</string>
+    <string name="payment_details2"><![CDATA[Please do not use this channel to pay for advance downpayments & students with promissory note applications. Online payment for such special cases are still under development. Sorry for the inconvenience.]]></string>
+    <string name="advance_downpayment"><![CDATA[Please do not use this channel to pay for advance downpayments & students with promissory note applications. Online payment for such special cases are still under development. Sorry for the inconvenience.]]></string>
+
+
+</resources>
